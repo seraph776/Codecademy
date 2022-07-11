@@ -15,7 +15,7 @@
   
 ### Developer Projects  
   
-🔎[View Demo](https://github.com/seraph776/Codecademy/blob/main/test.md#screenshot) · 🪳[Report Bugz](https://github.com/seraph776/Codecademy/issues) ·📫 [Contact me](mailto:seraph776@gmail.com)  
+🔎[View Demo](https://github.com/seraph776/Codecademy) · 🪳[Report Bugz](https://github.com/seraph776/Codecademy/issues) ·📫 [Contact me](mailto:seraph776@gmail.com)  
  
 Show your support and give this repo a ⭐ 
 
